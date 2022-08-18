@@ -40,11 +40,14 @@ Nach der Erarbeitung dieses Lernberichts konnte ich dies einer meiner Klassenkam
 # Reflektion zum Arbeitsprozess
 
 Was lief gut?
+
 Was Gut gelaufen ist war, das ich beim training schon viele (Fremde Begriffe) kannte, was mir schon als einen grossen Vorteil diente.
 Ich konnte mich sehr gut mit dem Team verstehen was fürs Spielen ein grosser Vorteil war.
 
 Was lief eher Schlecht?
+
 Grundsätzlich lief nichts besonders schlecht, jedoch war meine Kondition nicht auf das Level was fürs Training eigentlich gedacht war.
 
 Wie kann ich mich Verbessern?
+
 Ich kann mich verbessern, indem ich mehr trainiere bzw. meine Kondition verbessere um ins Training mitmögen können. 
