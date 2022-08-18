@@ -13,6 +13,8 @@ Ich habe gelernt das im Team, die Positionen eingehalten werden müssen, da jede
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
+![Basketball Feld]  (https://upload.wikimedia.org/wikipedia/commons/a/ac/Basketball_Positions.png)
+
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
